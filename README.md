@@ -2,7 +2,8 @@ SC1015 Project: An in-depth analysis of Amazon Review and Sales Data
 
 Background
 Companies tend to analyze their sales data to decide their sales direction. After all, this is the most accessible and commonly analyzed data. Meanwhile, online shopping websites contains a repository of reviews by shoppers. These reviews are used by other shoppers to decide whether a product is worth purchasing. 
- 
+
+![Cat]([https://example.com/cat.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikichip.org%2Fwiki%2FFile%3AAmazon_logo.svg&psig=AOvVaw0tEl_OCqJUV-g9OmlQwAS3&ust=1711512013963000&source=images&cd=vfe&opi=89978449&ved=0CBQQjhxqFwoTCJCyyZ6FkYUDFQAAAAAdAAAAABAJ))
 
 Problem Statement
 We aim to put the underutilized data of user reviews to better use, by building a recommendation system based on sentiment classification of reviews to improve user experience. This can complement the existing sales data analysis, to improve customer satisfaction in online retail stores, as well as revenue.
