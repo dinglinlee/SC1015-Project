@@ -19,8 +19,12 @@ We have chosen a dataset from Kaggle which illustrates user reviews of Amazon pr
 We have followed the process of data analytics as taught in the SC1015 course, in the order of data extraction, data cleaning, exploratory data analysis, data visualization as well as sentiments analysis by means of WordCloud. We conducted the analysis on the review scores to find out the popularity of products. We have included the use of Natural Language Toolkit (NLTK), a powerful and flexible library in performing sentiment analysis and natural language processing (NLP) tasks.  
 
 ## Tools Used
-Box Plot, Bar Plot, Correlation Matrix, Scatterplot, WordCloud, TF-IDF Vectorizer and Cosine Similarity.
+Box Plot, Bar Plot, Correlation Matrix, Scatterplot, WordCloud
 
+TF-IDF Vectorizer
+<img width=70% alt="image" src="https://i.imgur.com/5VbUPup.png">
+
+Cosine Similarity
 <img width=70% alt="image" src="https://miro.medium.com/v2/resize:fit:1022/1*-0AjCAVpOI50XySKLCt_Bg.png">
 
 ## Conclusion
