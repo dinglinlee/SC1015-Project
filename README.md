@@ -6,7 +6,7 @@ Companies tend to analyze their sales data to decide their sales direction. Afte
 
 <img  width=70% alt="image" src="https://i.imgur.com/yNjKszW.jpeg">
 
-## Problem Description
+## Problem Definition
 
 We aim to put the underutilized data of user purchase history and product description to better use, by building a recommendation system based on TF-IDF Vectorization and Cosine Similarity of reviews to improve user experience. This can complement the existing sales data analysis, to improve customer satisfaction in online retail stores, as well as revenue.
 
