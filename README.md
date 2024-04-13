@@ -22,10 +22,10 @@ We have followed the process of data analytics as taught in the SC1015 course, i
 Box Plot, Bar Plot, Correlation Matrix, Scatterplot, WordCloud
 
 ### TF-IDR Vectorizer
-<img width=40% alt="image" src="https://i.imgur.com/5VbUPup.png">
+<img width=65% alt="image" src="https://i.imgur.com/5VbUPup.png">
 
 ### Cosine Similarity
-<img width=40% alt="image" src="https://miro.medium.com/v2/resize:fit:1022/1*-0AjCAVpOI50XySKLCt_Bg.png">
+<img width=65% alt="image" src="https://miro.medium.com/v2/resize:fit:1022/1*-0AjCAVpOI50XySKLCt_Bg.png">
 
 ## Conclusion
 We have come up with a recommendation system that provides convenience for users as they can find products that they are most likely to be interested in. Additionally, the Exploratory Data Analysis has helped us learnt about what kind of products is popular amongst shoppers and the average discounts that we can set for each categories/sub-categories of product. With our key results presented in the video, we can gear the strategy towards higher customer satisfaction, which can result in more sales and thus higher revenue. 
