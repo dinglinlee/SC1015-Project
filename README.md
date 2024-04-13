@@ -25,7 +25,7 @@ Box Plot, Bar Plot, Correlation Matrix, Scatterplot, WordCloud, TFID Vectorizer 
 We have come up with a recommendation system that provides convenience for users as they can find products that they are most likely to be interested in. Additionally, the Exploratory Data Analysis has helped us learnt about what kind of products is popular amongst shoppers and the average discounts that we can set for each categories/sub-categories of product. With our key results presented in the video, we can gear the strategy towards higher customer satisfaction, which can result in more sales and thus higher revenue. 
 
 
-Lesson Learnt:
+## Lesson Learnt
 Learnt how to use new models such as WordCloud, TFID Vectorizer and Cosine Similarity.
 Learnt that we can use words to better understand reviews, and unlock the potential in data analytics.
 Understood Privacy & Ethics, and that user have to consent to their reviews to be used for analysis.
