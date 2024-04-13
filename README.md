@@ -4,11 +4,12 @@
 
 Companies tend to analyze their sales data to decide their sales direction. After all, this is the most accessible and commonly analyzed data. Meanwhile, online shopping websites contains a repository of reviews by shoppers. These reviews are used by other shoppers to decide whether a product is worth purchasing. 
 
-![amazon logo](https://raw.githubusercontent.com/dinglinlee/SC1015-Project/main/Amazon_Logo.jpeg)
+![Amazon Logo](https://raw.githubusercontent.com/dinglinlee/SC1015-Project/main/Amazon_Logo.jpeg)
+
 
 ## Problem Statement
 
-We aim to put the underutilized data of user reviews to better use, by building a recommendation system based on TFID Vectorisation and Cosine Similarity of reviews to improve user experience. This can complement the existing sales data analysis, to improve customer satisfaction in online retail stores, as well as revenue.
+We aim to put the underutilized data of user purchase history to better use, by building a recommendation system based on TFID Vectorisation and Cosine Similarity of reviews to improve user experience. This can complement the existing sales data analysis, to improve customer satisfaction in online retail stores, as well as revenue.
 
  
 ## Dataset  
