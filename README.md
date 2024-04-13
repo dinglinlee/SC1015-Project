@@ -8,7 +8,7 @@ Companies tend to analyze their sales data to decide their sales direction. Afte
 
 ## Problem Statement
 
-We aim to put the underutilized data of user purchase history and product discription to better use, by building a recommendation system based on TF-IDF Vectorization and Cosine Similarity of reviews to improve user experience. This can complement the existing sales data analysis, to improve customer satisfaction in online retail stores, as well as revenue.
+We aim to put the underutilized data of user purchase history and product description to better use, by building a recommendation system based on TF-IDF Vectorization and Cosine Similarity of reviews to improve user experience. This can complement the existing sales data analysis, to improve customer satisfaction in online retail stores, as well as revenue.
 
  
 ## Dataset  
@@ -21,11 +21,11 @@ We have followed the process of data analytics as taught in the SC1015 course, i
 ## Tools Used
 Box Plot, Bar Plot, Correlation Matrix, Scatterplot, WordCloud
 
-TF-IDF Vectorizer
-<img width=70% alt="image" src="https://i.imgur.com/5VbUPup.png">
+### TF-IDR Vectorizer
+<img width=40% alt="image" src="https://i.imgur.com/5VbUPup.png">
 
-Cosine Similarity
-<img width=70% alt="image" src="https://miro.medium.com/v2/resize:fit:1022/1*-0AjCAVpOI50XySKLCt_Bg.png">
+### Cosine Similarity
+<img width=40% alt="image" src="https://miro.medium.com/v2/resize:fit:1022/1*-0AjCAVpOI50XySKLCt_Bg.png">
 
 ## Conclusion
 We have come up with a recommendation system that provides convenience for users as they can find products that they are most likely to be interested in. Additionally, the Exploratory Data Analysis has helped us learnt about what kind of products is popular amongst shoppers and the average discounts that we can set for each categories/sub-categories of product. With our key results presented in the video, we can gear the strategy towards higher customer satisfaction, which can result in more sales and thus higher revenue. 
