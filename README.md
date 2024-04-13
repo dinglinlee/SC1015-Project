@@ -4,7 +4,7 @@
 
 Companies tend to analyze their sales data to decide their sales direction. After all, this is the most accessible and commonly analyzed data. Meanwhile, online shopping websites contains a repository of reviews by shoppers. These reviews are used by other shoppers to decide whether a product is worth purchasing. 
 
-<img  width=50% alt="image" src="https://i.imgur.com/jZqpV51.png">
+<img  width=50% alt="image" src="(https://i.imgur.com/yNjKszW.jpeg)">
 ![Amazon Logo](https://github.dev/dinglinlee/SC1015-Project/blob/main/Amazon_Logo.jpeg)
 ![Amazon Logo](https://raw.githubusercontent.com/dinglinlee/SC1015-Project/main/Amazon_Logo.jpeg)
 
