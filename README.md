@@ -35,3 +35,6 @@ We have come up with a recommendation system that provides convenience for users
 We learnt how to use new models such as WordCloud, TF-IDF Vectorizer and Cosine Similarity.
 We further learnt that we can use words to better understand reviews, and unlock the potential in data analytics. Last but not least, we gained better sense of privacy and ethics, in which users have to give consent for their reviews to be used for analytics purposes.
 
+## References
+link1 
+link2
