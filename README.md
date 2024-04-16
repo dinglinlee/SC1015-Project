@@ -36,4 +36,5 @@ We learnt how to use new models such as WordCloud, TF-IDF Vectorizer and Cosine 
 We further learnt that we can use words to better understand reviews, and unlock the potential in data analytics. Last but not least, we gained better sense of privacy and ethics, in which users have to give consent for their reviews to be used for analytics purposes.
 
 ## References
+J, K. (2023, January 17). Amazon Sales Dataset. Kaggle. https://www.kaggle.com/datasets/karkavelrajaj/amazon-sales-dataset/data 
 Documentation of scikit-learn 0.21.3¶. learn. (n.d.). https://scikit-learn.org/0.21/documentation.html 
