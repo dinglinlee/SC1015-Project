@@ -16,7 +16,7 @@ We have chosen a dataset from Kaggle that illustrates user reviews of Amazon pro
  
 
 ## Methods
-We have followed the process of data analytics as taught in the SC1015 course, in the order of data extraction, data cleaning, exploratory data analysis, data visualization as well as sentiments analysis using WordCloud. We analysed the review scores to find out the popularity of products. We have included the use of Natural Language Toolkit (NLTK), a powerful and flexible library for performing sentiment analysis and natural language processing (NLP) tasks.  
+We have followed the process of data analytics as taught in the SC1015 course, in the order of data extraction, data cleaning, exploratory data analysis, data visualization as well as sentiments analysis using WordCloud. We analysed the review scores to find out the popularity of products. We have included the use of Sci-Kit Learn Toolkit(SK Learn), an open source data analytics library used to implement machine learning models.  
 
 ## Tools Used
 Box Plot, Bar Plot, Correlation Matrix, Scatterplot, WordCloud
@@ -36,5 +36,4 @@ We learnt how to use new models such as WordCloud, TF-IDF Vectorizer and Cosine 
 We further learnt that we can use words to better understand reviews, and unlock the potential in data analytics. Last but not least, we gained better sense of privacy and ethics, in which users have to give consent for their reviews to be used for analytics purposes.
 
 ## References
-link1 
-link2
+Documentation of scikit-learn 0.21.3¶. learn. (n.d.). https://scikit-learn.org/0.21/documentation.html 
