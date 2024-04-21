@@ -33,7 +33,8 @@ We have come up with a recommendation system that provides convenience for users
 
 ## Lesson Learnt
 We learnt how to use new models such as WordCloud, TF-IDF Vectorizer and Cosine Similarity.
-We further learnt that we can use words to better understand reviews, and unlock the potential in data analytics. Last but not least, we gained better sense of privacy and ethics, in which users have to give consent for their reviews to be used for analytics purposes.
+We further learnt that we can use words to better understand reviews, and unlock the potential in data analytics.
+We also further improved on our skills to describe statistics, and draw conclusion from them
 
 ## References
 J, K. (2023, January 17). Amazon Sales Dataset. Kaggle. https://www.kaggle.com/datasets/karkavelrajaj/amazon-sales-dataset/data 
