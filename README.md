@@ -38,4 +38,5 @@ We also further improved on our skills to describe statistics, and draw conclusi
 
 ## References
 J, K. (2023, January 17). Amazon Sales Dataset. Kaggle. https://www.kaggle.com/datasets/karkavelrajaj/amazon-sales-dataset/data 
+
 Documentation of scikit-learn 0.21.3¶. learn. (n.d.). https://scikit-learn.org/0.21/documentation.html 
