@@ -16,15 +16,17 @@ We have chosen a dataset from Kaggle that illustrates user reviews of Amazon pro
  
 
 ## Methods
-We have followed the process of data analytics as taught in the SC1015 course, in the order of data extraction, data cleaning, exploratory data analysis, data visualization as well as sentiments analysis using WordCloud. We analysed the review scores to find out the popularity of products. We have included the use of Sci-Kit Learn Toolkit(SK Learn), an open source data analytics library used to implement machine learning models.  
+We have followed the process of data analytics as taught in the SC1015 course, in the order of data extraction, data cleaning, exploratory data analysis, data visualization as well as sentiments analysis using WordCloud. We analysed the review scores to find out the popularity of products. We have included the use of Sci-Kit Learn Toolkit(SK Learn), an open source data analytics library used to implement machine learning models. A recommendation system was created in our project.
 
 ## Tools Used
-Box Plot, Bar Plot, Correlation Matrix, Scatterplot, WordCloud
+### Box Plot, Bar Plot, Correlation Matrix, Scatterplot, WordCloud
 
-### TF-IDR Vectorizer
+### TF-IDR Vectorize
+Measures the originality of a word by comparing the number of appearance in two separate texts.
 <img width=60% alt="image" src="https://i.imgur.com/5VbUPup.png">
 
 ### Cosine Similarity
+Measures the similarity between two vectors of an inner product space.
 <img width=60% alt="image" src="https://miro.medium.com/v2/resize:fit:1022/1*-0AjCAVpOI50XySKLCt_Bg.png">
 
 ## Conclusion
