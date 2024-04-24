@@ -1,4 +1,4 @@
-#                               SC1015 Project: An in-depth analysis of Amazon Sales and Review Data 
+#                               SC1015 Project: An In-Depth Analysis of Amazon Sales and Review Data 
 
 ## Background  
 
@@ -23,8 +23,6 @@ We have followed the process of data analytics as taught in the SC1015 course, i
 
 ### WordCloud
 Visualises unstructured text data to gain insights on trends to dedude sentiments.
-<img width=60% alt="image" src="https://drive.google.com/file/d/1UklvulWMsvrQNmhSVvZAxQ0O3hQWJII3/view?usp=sharing">
-
 
 ### TF-IDR Vectorizer
 Measures the originality of a word by comparing the number of appearance in two separate texts.
